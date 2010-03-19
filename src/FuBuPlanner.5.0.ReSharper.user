@@ -1,0 +1,120 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="368" fromTop="14" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="1026" fromTop="24" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FuBuPlannerRegistry.asax.cs" caret="714" fromTop="21" />
+      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="209" fromTop="11" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:ISession.cs" caret="352" fromTop="15" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4oSession.cs" caret="178" fromTop="7" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="177" fromTop="0" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="159" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="0" fromTop="22" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="2230" fromTop="22" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="119" fromTop="8" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="32" fromTop="0" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="314" fromTop="11" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="368" fromTop="14" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="214" fromTop="4" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="654" fromTop="22" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="1026" fromTop="30" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FuBuPlannerRegistry.asax.cs" caret="723" fromTop="21" />
+      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="209" fromTop="11" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:ISession.cs" caret="138" fromTop="3" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:ISession.cs" caret="352" fromTop="15" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="812" fromTop="22" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="517" fromTop="16" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="369" fromTop="9" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="1310" fromTop="32" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="1310" fromTop="2" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4oSession.cs" caret="1172" fromTop="36" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4oSession.cs" caret="274" fromTop="11" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="177" fromTop="7" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="158" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="1" />
+      <Item value="routeCollection" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="_routes" priority="2" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="2" />
+      <Item value="ObjectFactory`0" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="container" priority="0" />
+      <Item value="FuBuPlanner" priority="0" />
+      <Item value="bootstrapper" priority="0" />
+      <Item value="routes" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="RouteCollection`0" priority="0" />
+      <Item value="FubuStructureMapBootstrapper`0" priority="0" />
+      <Item value="IncludeDiagnostics`0" priority="0" />
+      <Item value="Applies" priority="0" />
+      <Item value="Actions" priority="0" />
+      <Item value="Routes" priority="0" />
+      <Item value="Views" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="ISessionSource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Routing.RouteTable">
+      <Item value="Routes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FubuMVC.Core.Runtime.UrlContext">
+      <Item value="Reset`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StructureMap.ObjectFactory">
+      <Item value="Initialize`0" priority="0" />
+      <Item value="Container" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.StructureMap.StructureMapBootstrapper">
+      <Item value="Bootstrap`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Web.FubuStructureMapBootstrapper">
+      <Item value="BootstrapStructureMap`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.AppliesToExpression">
+      <Item value="ToThisAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.ActionCallCandidateExpression">
+      <Item value="IncludeTypesNamed`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.RouteConventionExpression">
+      <Item value="IgnoreControllerNamespaceEntirely`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.ViewExpression">
+      <Item value="TryToAttach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.ViewsForActionFilterExpression">
+      <Item value="by`0" priority="1" />
+      <Item value="by_ViewModel_and_Namespace_and_MethodName`0" priority="0" />
+      <Item value="by_ViewModel_and_Namespace`0" priority="0" />
+      <Item value="by_ViewModel`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuBuPlanner.Domain", "FuBuPlanner.Domain\FuBuPlanner.Domain.csproj", "{D139105C-08CD-4293-829A-26D0E1824346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuBuPlanner.Data", "FuBuPlanner.Data\FuBuPlanner.Data.csproj", "{A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuBuPlanner.Web", "FuBuPlanner.Web\FuBuPlanner.Web.csproj", "{0A9E019D-5E5E-4085-97F7-AFC0172AE3E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D139105C-08CD-4293-829A-26D0E1824346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D139105C-08CD-4293-829A-26D0E1824346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D139105C-08CD-4293-829A-26D0E1824346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D139105C-08CD-4293-829A-26D0E1824346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9E019D-5E5E-4085-97F7-AFC0172AE3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9E019D-5E5E-4085-97F7-AFC0172AE3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9E019D-5E5E-4085-97F7-AFC0172AE3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9E019D-5E5E-4085-97F7-AFC0172AE3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
