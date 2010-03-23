@@ -1,4 +1,5 @@
 ﻿using FubuMVC.Core;
+using FuBuPlanner.Web.Behaviours;
 
 namespace FuBuPlanner.Web
 {
@@ -20,7 +21,10 @@ namespace FuBuPlanner.Web
                                       x.by_ViewModel_and_Namespace();
                                       x.by_ViewModel();
                                   });
-            
+
+            Policies.ConditionallyWrapBehaviorChainsWith<MustBeAuthenticatedBehaviour>(
+                c => !c.HandlerType.Namespace.EndsWith("Accounts")
+                );
         }
     }
 }

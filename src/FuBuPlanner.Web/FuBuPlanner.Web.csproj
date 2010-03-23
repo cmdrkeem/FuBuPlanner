@@ -30,6 +30,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Db4objects.Db4o, Version=7.12.132.14217, Culture=neutral, PublicKeyToken=6199cd4f203aa8eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libs\Db4objects.Db4o.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth, Version=3.4.2.10079, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libs\DotNetOpenAuth.dll</HintPath>
+    </Reference>
     <Reference Include="FubuMVC.Core, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\libs\FubuMVC.Core.dll</HintPath>
@@ -59,6 +67,7 @@
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Routing">
@@ -67,10 +76,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Controllers\Accounts\LogOnView.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behaviours\MustBeAuthenticatedBehaviour.cs" />
+    <Compile Include="Behaviours\RepositoryBehaviour.cs" />
+    <Compile Include="Controllers\Accounts\LogOnController.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controllers\Home\HomeController.cs" />
     <Compile Include="FuBuPlannerRegistry.asax.cs" />
     <Compile Include="FubuStructureMapBootstrapper.asax.cs" />
     <Compile Include="Global.asax.cs">
@@ -79,8 +95,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FuBuPlanner.Data\FuBuPlanner.Data.csproj">
+      <Project>{A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40}</Project>
+      <Name>FuBuPlanner.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FuBuPlanner.Domain\FuBuPlanner.Domain.csproj">
+      <Project>{D139105C-08CD-4293-829A-26D0E1824346}</Project>
+      <Name>FuBuPlanner.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Views\Master\" />
   </ItemGroup>

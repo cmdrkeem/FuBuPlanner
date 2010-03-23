@@ -3,43 +3,57 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="368" fromTop="14" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="1026" fromTop="24" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FuBuPlannerRegistry.asax.cs" caret="714" fromTop="21" />
-      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="209" fromTop="11" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:ISession.cs" caret="352" fromTop="15" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4oSession.cs" caret="178" fromTop="7" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="177" fromTop="0" />
       <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="159" fromTop="5" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="368" fromTop="14" />
+      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="264" fromTop="10" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:MustBeAuthenticatedBehaviour.cs" caret="1236" fromTop="14" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="471" fromTop="8" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Home/f:HomeController.cs" caret="231" fromTop="10" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="892" fromTop="20" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:IRepository.cs" caret="127" fromTop="5" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FuBuPlannerRegistry.asax.cs" caret="925" fromTop="26" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4ORepository.cs" caret="361" fromTop="13" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="890" fromTop="14" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnView.aspx" caret="479" fromTop="9" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="1436" fromTop="24" />
     </RecentFiles>
     <RecentEdits>
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="0" fromTop="22" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="2230" fromTop="22" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="119" fromTop="8" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="32" fromTop="0" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="314" fromTop="11" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Global.asax.cs" caret="368" fromTop="14" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="214" fromTop="4" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="654" fromTop="22" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="1026" fromTop="30" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FuBuPlannerRegistry.asax.cs" caret="723" fromTop="21" />
-      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="209" fromTop="11" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:ISession.cs" caret="138" fromTop="3" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:ISession.cs" caret="352" fromTop="15" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="812" fromTop="22" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="517" fromTop="16" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="369" fromTop="9" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="1310" fromTop="32" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="1310" fromTop="2" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4oSession.cs" caret="1172" fromTop="36" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4oSession.cs" caret="274" fromTop="11" />
-      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="177" fromTop="7" />
-      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:Web.config" caret="158" fromTop="5" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="3609" fromTop="37" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FuBuPlannerRegistry.asax.cs" caret="912" fromTop="25" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="261" fromTop="11" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:IRepository.cs" caret="132" fromTop="5" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="245" fromTop="11" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:SessionSource.cs" caret="392" fromTop="17" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="489" fromTop="11" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="691" fromTop="20" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="816" fromTop="10" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="1171" fromTop="22" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="918" fromTop="21" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Behaviours/f:RepositoryBehaviour.cs" caret="296" fromTop="0" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="1354" fromTop="15" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="344" fromTop="5" />
+      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="277" fromTop="12" />
+      <File id="D139105C-08CD-4293-829A-26D0E1824346/f:Person.cs" caret="264" fromTop="10" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="593" fromTop="0" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Home/f:HomeController.cs" caret="247" fromTop="10" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="3407" fromTop="24" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="3599" fromTop="6" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="2593" fromTop="8" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="2777" fromTop="12" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="3055" fromTop="17" />
+      <File id="A6B0CB83-AD7E-4B5F-88E6-2C14039C1E40/f:Db4ORepository.cs" caret="297" fromTop="11" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/f:FubuStructureMapBootstrapper.asax.cs" caret="888" fromTop="13" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="1644" fromTop="6" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="3214" fromTop="32" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnView.aspx" caret="618" fromTop="11" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnView.aspx" caret="715" fromTop="14" />
+      <File id="0A9E019D-5E5E-4085-97F7-AFC0172AE3E0/d:Controllers/d:Accounts/f:LogOnController.cs" caret="1435" fromTop="24" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -54,16 +68,16 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="var" priority="1" />
+      <Item value="var" priority="9" />
       <Item value="routeCollection" priority="0" />
-      <Item value="private" priority="1" />
-      <Item value="readonly" priority="0" />
-      <Item value="ctor" priority="1" />
+      <Item value="private" priority="3" />
+      <Item value="readonly" priority="3" />
+      <Item value="ctor" priority="3" />
       <Item value="_routes" priority="2" />
-      <Item value="public" priority="4" />
+      <Item value="public" priority="12" />
       <Item value="void" priority="2" />
       <Item value="ObjectFactory`0" priority="1" />
-      <Item value="new" priority="1" />
+      <Item value="new" priority="9" />
       <Item value="container" priority="0" />
       <Item value="FuBuPlanner" priority="0" />
       <Item value="bootstrapper" priority="0" />
@@ -76,8 +90,67 @@
       <Item value="Actions" priority="0" />
       <Item value="Routes" priority="0" />
       <Item value="Views" priority="0" />
-      <Item value="string" priority="0" />
+      <Item value="string" priority="5" />
       <Item value="ISessionSource`0" priority="0" />
+      <Item value="OpenIdRelyingParty" priority="0" />
+      <Item value="openId" priority="2" />
+      <Item value="if" priority="4" />
+      <Item value="response" priority="5" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="Errors" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="LogOnInputModel`0" priority="0" />
+      <Item value="model" priority="8" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="2" />
+      <Item value="AuthenticationStatus`0" priority="2" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="PartialBehavior`0" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="UriFormat`0" priority="0" />
+      <Item value="Policies" priority="0" />
+      <Item value="c" priority="2" />
+      <Item value="SessionSource`0" priority="6" />
+      <Item value="IRepository`0" priority="0" />
+      <Item value="Db4ORepository`0" priority="0" />
+      <Item value="Builder" priority="0" />
+      <Item value="args" priority="0" />
+      <Item value="break" priority="2" />
+      <Item value="typeof" priority="0" />
+      <Item value="sreg" priority="0" />
+      <Item value="_repository" priority="2" />
+      <Item value="Person`0" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="person" priority="3" />
+      <Item value="Person" priority="0" />
+      <Item value="OpenIdIdentifier" priority="0" />
+      <Item value="openIdIdentifier" priority="0" />
+      <Item value="IAuthenticationRequest`0" priority="0" />
+      <Item value="_authContext" priority="0" />
+      <Item value="FubuContinuation`0" priority="6" />
+      <Item value="class" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="LogOnModel`0" priority="4" />
+      <Item value="FubuControl" priority="0" />
+      <Item value="ctx" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="Model" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="error" priority="0" />
+      <Item value="XriDiscoveryProxyService`0" priority="0" />
+      <Item value="LogOnController`0" priority="0" />
+      <Item value="LogOn`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="OpenIdRelyingParty`0" priority="0" />
+      <Item value="Identifier`0" priority="0" />
+      <Item value="request" priority="1" />
+      <Item value="Realm`0" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="Relative" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Web.Routing.RouteTable">
       <Item value="Routes" priority="0" />
@@ -102,7 +175,7 @@
       <Item value="IncludeTypesNamed`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
-      <Item value="EndsWith`0" priority="0" />
+      <Item value="EndsWith`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.RouteConventionExpression">
       <Item value="IgnoreControllerNamespaceEntirely`0" priority="0" />
@@ -115,6 +188,95 @@
       <Item value="by_ViewModel_and_Namespace_and_MethodName`0" priority="0" />
       <Item value="by_ViewModel_and_Namespace`0" priority="0" />
       <Item value="by_ViewModel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DotNetOpenAuth.OpenId.RelyingParty.OpenIdRelyingParty">
+      <Item value="GetResponse`0" priority="0" />
+      <Item value="CreateRequest`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Web.Controllers.LogOnInputModel">
+      <Item value="LoginIdentifier" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DotNetOpenAuth.OpenId.RelyingParty.IAuthenticationResponse">
+      <Item value="ClaimedIdentifier" priority="1" />
+      <Item value="Status" priority="0" />
+      <Item value="GetExtension`0" priority="1" />
+      <Item value="FriendlyIdentifierForDisplay" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DotNetOpenAuth.OpenId.RelyingParty.AuthenticationStatus">
+      <Item value="Authenticated" priority="0" />
+      <Item value="Canceled" priority="0" />
+      <Item value="Failed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FubuMVC.Core.Behaviors.PartialBehavior">
+      <Item value="Ignored" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.DSL.PoliciesExpression">
+      <Item value="ConditionallyWrapBehaviorChainsWith`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Registration.Nodes.ActionCall">
+      <Item value="HandlerType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Namespace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IInitializationExpression">
+      <Item value="For`0" priority="2" />
+      <Item value="ForConcreteType`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Expressions.CreatePluginFamilyExpression`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Use`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Registry+BuildWithExpression`1">
+      <Item value="Configure" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Data.IRepository">
+      <Item value="All`1" priority="0" />
+      <Item value="Save`1" priority="0" />
+      <Item value="Commit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Domain.Person">
+      <Item value="OpenIdIdentifier" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FubuMVC.Core.Security.IAuthenticationContext">
+      <Item value="ThisUserHasBeenAuthenticated`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FubuMVC.Core.Continuations.FubuContinuation">
+      <Item value="RedirectTo`0" priority="0" />
+      <Item value="TransferTo`1" priority="4" />
+      <Item value="NextBehavior`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Web.Controllers.Home.HomeController">
+      <Item value="Home`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Web.Controllers.Accounts.LogOnModel">
+      <Item value="ReturnUrl" priority="1" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Errors" priority="2" />
+      <Item value="LogOnIdentifier" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IContext">
+      <Item value="GetInstance`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FuBuPlanner.Data.SessionSource">
+      <Item value="CreateSession`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DotNetOpenAuth.OpenId.Identifier">
+      <Item value="IsValid`0" priority="0" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DotNetOpenAuth.OpenId.RelyingParty.IAuthenticationRequest">
+      <Item value="ReturnToUrl" priority="0" />
+      <Item value="RedirectingResponse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DotNetOpenAuth.OpenId.Realm">
+      <Item value="AutoDetect" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

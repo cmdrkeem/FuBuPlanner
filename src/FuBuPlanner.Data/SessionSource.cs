@@ -6,17 +6,17 @@ using Db4objects.Db4o.TA;
 
 namespace FuBuPlanner.Data
 {
-    public static class SessionSource 
+    public class SessionSource 
     {
-        private static IObjectServer _server;
+        private IObjectServer _server;
 
-        public static ISession CreateUnitOfWork()
+        public IRepository CreateSession()
         {
             EnsureServer();
-            return new Db4oSession(_server);
+            return new Db4ORepository(_server);
         }
 
-        private static void EnsureServer()
+        private void EnsureServer()
         {
             if (_server == null)
             {
